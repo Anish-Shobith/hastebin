@@ -1,0 +1,74 @@
+/* Ocean Dark Theme */
+/* https://github.com/gavsiu */
+/* Original theme - https://github.com/chriskempson/base16 */
+
+/* Ocean Comment */
+.hljs-comment,
+.hljs-quote {
+  color: #464B5D;
+}
+
+/* Ocean Red */
+.hljs-variable,
+.hljs-template-variable,
+.hljs-tag,
+.hljs-name,
+.hljs-selector-id,
+.hljs-selector-class,
+.hljs-regexp,
+.hljs-deletion {
+  color: #FF5370;
+}
+
+/* Ocean Orange */
+.hljs-number,
+.hljs-built_in,
+.hljs-builtin-name,
+.hljs-literal,
+.hljs-type,
+.hljs-params,
+.hljs-meta,
+.hljs-link {
+  color: #F78C6C;
+}
+
+/* Ocean Yellow */
+.hljs-attribute {
+  color: #FFCB6B;
+}
+
+/* Ocean Green */
+.hljs-string,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition {
+  color: #C3E88D;
+}
+
+/* Ocean Blue */
+.hljs-title,
+.hljs-section {
+  color: #82AAFF;
+}
+
+/* Ocean Purple */
+.hljs-keyword,
+.hljs-selector-tag {
+  color: #C792EA;
+}
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  background: #0F111A;
+  color: #c0c5ce;
+  padding: 0.5em;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
+
+.hljs-strong {
+  font-weight: bold;
+}
